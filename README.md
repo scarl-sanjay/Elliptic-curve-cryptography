@@ -1,7 +1,7 @@
 # Elliptic-curve-cryptography
 
 ## AIM:
-To write a program to implement EllipƟc curve cryptography (ECC).
+To write a program to implement Elliptic curve cryptography (ECC).
 
 ## ALGORITHM:
 
