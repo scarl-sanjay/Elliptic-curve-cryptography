@@ -1,4 +1,4 @@
-# Elliptic-curve-cryptography
+# EXP-11-Elliptic-curve-cryptography
 
 ## AIM:
 To write a program to implement Elliptic curve cryptography (ECC).
