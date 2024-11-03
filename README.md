@@ -44,7 +44,7 @@ int PA, PB;
 int KA, KB; 
 int message, encrypted_message, decrypted_message;
 printf("\n ********EllipƟc Curve Cryptography(ECC)********\n\n");
-printf("\n NAME:GOKUL J REG NO:212222230038\n\n");
+printf("\n NAME:SANJAY S REG NO:212223040184\n\n");
 printf("Enter the base point (G): ");
 scanf("%d", &G);
 printf("Enter the prime modulus (p): ");
@@ -85,7 +85,7 @@ return 0;
 ```
 ## Output:
 
-![image](https://github.com/user-attachments/assets/9a72a0fc-16b6-427c-b319-2795eac72de4)
+![image](https://github.com/user-attachments/assets/9faebc69-2823-4529-b054-302eed1eebbf)
 
 ## Result:
 Thus the Elliptic curve cryptography (ECC) had been implemented successfully.
